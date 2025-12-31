@@ -1,4 +1,4 @@
-# PDF下载和解密工具
+# 人民卫生出版社图书增值服务的题目加密PDF下载和解密工具
 
 用于从 `zengzhi.ipmph.com` 下载加密PDF并自动解密的工具。
 
@@ -114,5 +114,6 @@ function Decrypt(word, keyStr) {
 
 - `pdf_downloader_decryptor.py`: 主程序
 - `README.md`: 本说明文件
+
 
 
