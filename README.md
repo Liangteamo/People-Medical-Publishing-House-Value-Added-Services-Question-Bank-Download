@@ -46,11 +46,9 @@ python pdf_downloader_decryptor.py "https://bzyxz.ipmph.com/pdf/98561d71103244e3
 # 方式2: 直接输入PDF ID（推荐）
 python pdf_downloader_decryptor.py 98561d71103244e3a7caebdfd674c3ba
 
-# 方式3: 指定总页数
-python pdf_downloader_decryptor.py 98561d71103244e3a7caebdfd674c3ba 3
 
 # 方式4: 指定输出文件名
-python pdf_downloader_decryptor.py 94d8a6c0300b40c3a79e5d09fe5d58d7 4 "第一章_细胞组织的适应和损伤.pdf"
+python pdf_downloader_decryptor.py 94d8a6c0300b40c3a79e5d09fe5d58d7 "第一章_细胞组织的适应和损伤.pdf"
 ```
 
 ### 如何获取PDF ID
