@@ -31,7 +31,7 @@ python pdf_downloader_decryptor.py "https://bzyxz.ipmph.com/pdf/98561d71103244e3
 ### 方式2: 直接输入PDF ID（推荐）
 
 ```bash
-python pdf_downloader_decryptor.py <pdf_id> [total_pages] [pdf_name]
+python pdf_downloader_decryptor.py <pdf_id> [pdf_name]
 ```
 
 ### 参数说明
